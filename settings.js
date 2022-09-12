@@ -24,18 +24,18 @@ global.language = indonesia  //change indonesia to english if you don't understa
 
 // Other
 // Other
-global.botname = "reenzz BOTZ" //namabot kalian
-global.ownername= "renzzz " //nama kalian
+global.botname = "ZanzBOT" //namabot kalian
+global.ownername= "Zanz elite " //nama kalian
 global.myweb ="https://api.zeeoneofc.xyz" //bebas asal jan hapus
 global.youtube = "https://youtube.com/c/" //bebas asal jan hapus
 global.github = "https://github.com/rizkiwibu/Alphabot" //bebas
 global.email = "j" //bebas
 global.region = "Indonesia" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
-global.premium = ['6285710267315'] //premium user
-global.owner = ["6285710267315","6283807661974"] //ganti agar fitur owner bisa di gunakan
-global.ownernomer = "6285710267315" // nomor wa kalian
-global.ownernomerr = "+6285710267315" //nmr wa kalian
+global.premium = ['6285725058210'] //premium user
+global.owner = ["6285725058210","6283807661974"] //ganti agar fitur owner bisa di gunakan
+global.ownernomer = "6285725058210" // nomor wa kalian
+global.ownernomerr = "+6285725058210" //nmr wa kalian
 global.thumbnail = "./image/1662272224845.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/1662272739537.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
